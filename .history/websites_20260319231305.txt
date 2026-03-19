@@ -1,0 +1,2 @@
+https://app.pinecone.io/organizations/-Oo-ip2s6kJHnrIopCeG/projects/51c310c6-10a2-440c-a7fc-907c1359a76b/indexes/sonamvectordb/browser
+https://aistudio.google.com/api-keys?project=gen-lang-client-0638896918
